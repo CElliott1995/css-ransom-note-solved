@@ -86,7 +86,7 @@ body {
   background-color: hsl(0, 100%, 50%);
   font-size: 55px;
   font-weight: bolder;
-  color: #ff00ff88;
+  color: #030bf388;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -121,10 +121,10 @@ body {
 .Style8 {
   border-color: #ff00ff !important;
   background-color: #00eeff;
-  font-size: 30px;
+  font-size: 93px;
   font-weight: 300;
   color: #ff0000;
-  font-family: "Raleway Dots", sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
 .Style9 {
